@@ -1,9 +1,14 @@
 # [+] __Exon Selfbot__
 [+] **+autoreact <on or off> :** It will toggle on or off the autoreact.
+
 [+] **+spam <ammount> <message> :** It will spams the message according to the given ammount.
+
 [+] **+afk <reason> :** Sets your AFK to the given reason.
+
 [+] **+unafk <reason> :** Unsets your AFK to the given reason.
+
 [+] **+bal <ltc_addy> :** Gives you the LTC addy info.
+
 [+] **+av <user> :** Shows the avatar of the user.
 [+] **+banner <user> :** Shows the banner of the user.
 [+] **+clear <ammount>** Delete the messages according to the given ammount.
