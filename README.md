@@ -9,7 +9,7 @@ Exon is great for its afk feature, the token checker and more! You can find all 
 ## 🪄 Installation
 Follow these steps to install the selfbot.
 
-1. Download the ZIP file.
+1. Download the [ZIP file.](https://github.com/6crucified/exon/releases)
 2. Unzip file by double clicking on it (You do not need WinRAR!)
 3. Go to the "config" folder, and open config.json with a text edior (I recommend VS Code)
 4. Paste your Discord token in the space where it says "YOUR TOKEN HERE"
