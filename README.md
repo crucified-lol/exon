@@ -17,6 +17,6 @@ Follow these steps to install the selfbot.
 6. **You're all set! Type "+help" to see all commands.**
 
 
-### ⚠️ Warning
+## ⚠️ Warning
 
 Using selfbots are against Discord's terms of service, use at your own risk. I am not responsible for any account moderation.
