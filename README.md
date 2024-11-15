@@ -19,8 +19,9 @@ Follow these steps to install the selfbot.
 
 ## ℹ️Requirements
 
+1. Python 3.11 (or later)
+2. All plugins ([Find out here on how to install them](https://github.com/crucified-lol/exon/blob/main/plugins.md))
 
-Upcoming
 
 
 ## ⚠️ Warning
